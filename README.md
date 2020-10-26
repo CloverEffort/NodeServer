@@ -1,7 +1,7 @@
 ## blog_behind
-毕设博客后台
+ReactBlog后台
 
-<p  align="center"><a href="https://qdmmz.cn"><img width="120" src="http://q1.qlogo.cn/g?b=qq&nk=378406712&s=640"></a></p>
+
 <p align="center">基于 NodeJs 和 Express 的后端实现</p>
 <p align="center">后端：node.js </p>
 <p align="center">数据库：mongodb</p>
@@ -32,7 +32,7 @@
 
 ## 写在前面
 
-该后端为[myBlogDesign-2.0](https://github.com/378406712/myBlogDesign-2.0)的后端环境,需要配合其使用。
+该后端为[ReactBlog](https://github.com/CloverEffort/ReactBlog)的后端环境,需要配合其使用。
 
 请确保你安装了 [node](https://nodejs.org/en/) 和 [git](https://git-scm.com/)，[mongodb]( https://www.mongodb.com/ )
 
@@ -152,14 +152,11 @@ monogo
 ### 其他
 
 ```
-由于后端一开始未使用MVC架构，导致前端多次请求接口容易发生系统崩溃。
-后期我重构过一次，也使用了大量Moogoose的Api，所有可能出现部分接口有原生的Api写法，也有Moogoose的Api。
-这是我第一次做后端以及使用非关系型数据库Mongodb，自知有很多不足。
-希望通过在未来学习与实践中，让自己变得更加强大!
+to be continued...
 ```
 
 ## License
 
  [Apache-2.0](https://github.com/378406712/blog_behind/blob/mac/LICENSE) 
 
- Copyright [Clover](https://github.com/378406712)
+ Copyright [Clover](https://github.com/CloverEffort)
